@@ -29,3 +29,6 @@ This project implements a complete regression pipeline to predict median house v
 
 ##  Team
 Gilad B., Maor S., Mor A.
+
+## Video Presentation 
+https://www.youtube.com/watch?v=BC3fJ7bLiBA
